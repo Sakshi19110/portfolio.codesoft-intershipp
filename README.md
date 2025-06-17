@@ -1,7 +1,9 @@
  Personal Portfolio Website
+ 
 This is my personal portfolio website created as part of the CodSoft Internship.
 
  About Me
+ 
  Hi! I'm Sakshi, a passionate web developer interested in frontend development and creating responsive websites.
 
 Coming soon...
